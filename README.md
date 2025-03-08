@@ -32,6 +32,9 @@ The app is built using **React**, **JavaScript**, and **Vite** for fast developm
 Here is a preview of the app:
 
 ![Quiz App Screenshot](./screenshots/desktop-dark.png)
+![Quiz App Screenshot](./screenshots/desktop-light.png)
+![Quiz App Screenshot](./screenshots/mobile-dark.png)
+![Quiz App Screenshot](./screenshots/mobile-light.png)
 
 ## Live Demo
 
