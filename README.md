@@ -40,6 +40,8 @@ Here is a preview of the app:
 
 Check out the live version of the app here:  
 [Live Demo in Vercel](https://quiz-app-high-level.vercel.app/)
+[Live Demo in Netlify](https://quiz-app-high-level.netlify.app/)
+
 
 ## Installation
 
