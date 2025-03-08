@@ -45,8 +45,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app-high-level
-=======
+   git clone https://github.com/AmirRiahi2008/quiz-app-high-level
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
